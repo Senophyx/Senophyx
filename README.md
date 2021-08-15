@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyquid12&label=Profile%20views&color=00ff6f&style=flat" alt="lyquid12" /> </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyQuid12&layout=compact&theme=midnight-purple)](https://github.com/LyQuid12)
 
 ![LyQuid's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyQuid12&show_icons=true&theme=radical)
