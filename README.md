@@ -1,5 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyquid12&label=Profile%20views&color=00ff6f&style=flat" alt="lyquid12" /> </p>
 
+<h3 align="left">Connect with me & team:</h3>
+<p align="left">
+<a href="https://discord.gg/https://dsc.gg/eternomm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/eternomm" height="30" width="40" /></a>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyQuid12&layout=compact&theme=midnight-purple)](https://github.com/LyQuid12)
 
 ![LyQuid's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyQuid12&show_icons=true&theme=radical)
