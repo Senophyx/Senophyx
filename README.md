@@ -1,6 +1,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyquid12&label=Profile%20Views&color=00ff6e&style=flat" alt="lyquid12" /> </p>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on [EterNomm](https://github.com/EterNomm), [NekoIceTeam](https://github.com/NekoIceTeam)
