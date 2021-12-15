@@ -29,9 +29,12 @@
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 
-<h3 align="left">Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyquid12&include_all_commits=Tru&show_icons=True&theme=radical&locale=en" alt="lyquid12" /></p>
+<h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyquid12&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lyquid12" /></p>
+[![LyQuid's stats](https://github-readme-stats.vercel.app/api?username=lyquid12&include_all_commits=Tru&show_icons=True&theme=radical&locale=en)](https://github.com/LyQuid12)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyquid12&theme=dark" alt="lyquid12" /></p>
+[![LyQuid's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=lyquid12&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/LyQuid12)
+
+[![LyQuid's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lyquid12&theme=dark)](https://github.com/LyQuid12)
+
+[![LyQuid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LyQuid&theme=radical)](https://wakatime.com/@LyQuid)
