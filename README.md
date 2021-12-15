@@ -1,5 +1,5 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyquid12&label=Profile%20Views&color=00ff6e&style=flat" alt="lyquid12" /> </p>
+[![Profile views](https://komarev.com/ghpvc/?username=lyquid12&label=Profile%20Views&color=00ff6e&style=flat)](https://github.com/LyQuid12)
+[![wakatime](https://wakatime.com/badge/user/009964de-2c20-442b-a973-095ac50ab692.svg)](https://wakatime.com/@009964de-2c20-442b-a973-095ac50ab692)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
