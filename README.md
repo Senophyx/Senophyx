@@ -18,9 +18,9 @@
 <a href="https://twitter.com/lyquid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lyquid_" height="30" width="40" /></a>
 <a href="https://instagram.com/lyquid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyquid_" height="30" width="40" /></a>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TbgVSbycuh" height="30" width="40" /></a>
+<a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://img.shields.io/discord/887650006977347594?label=Discord&logo=Discord" alt="qpT2AeYZRN" height="30" width="200" /></a>
 </p>
 
-[![Discord](https://img.shields.io/discord/887650006977347594?label=Discord&logo=Discord)](https://discord.gg/qpT2AeYZRN)
 [![Discord](https://discord.c99.nl/widget/theme-2/766162972060942336.png)](https://discord.gg/qpT2AeYZRN)
 
 <h3 align="left">Languages:</h3>
@@ -36,5 +36,3 @@
 [![LyQuid's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=lyquid12&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/LyQuid12)
 
 [![LyQuid's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lyquid12&theme=dark)](https://github.com/LyQuid12)
-
-[![LyQuid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LyQuid&theme=radical)](https://wakatime.com/@LyQuid)
