@@ -5,13 +5,15 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [EterNomm](https://github.com/EterNomm), [NekoIceTeam](https://github.com/NekoIceTeam)
+- I’m currently working on [EterNomm](https://github.com/EterNomm), [NekoIceTeam](https://github.com/NekoIceTeam)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Js**
+- I’m currently learning **Python, HTML, CSS, Js**
 
-- 💬 Ask me about **Python**
+- First time learning Python **August 1, 2021**
 
-- ⚡ Fun fact **I Love Loli**
+- Ask me about **Python**
+
+- Fun fact **I Love Loli** (jk, I'm not a Pedophile :v)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
