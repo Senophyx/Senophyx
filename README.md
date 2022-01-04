@@ -13,7 +13,7 @@
 
 - Ask me about **Python**
 
-- Fun fact **I Love Loli** (jk, I'm not a Pedophile :v)
+- Fun fact **I am a Python packages creator**,  such as [Whitehat](https://github.com/EterNomm/Whitehat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
