@@ -1,5 +1,5 @@
-[![Profile views](https://komarev.com/ghpvc/?username=lyquid12&label=Profile%20Views&color=00ff6e&style=flat)](https://github.com/LyQuid12)
-[![wakatime](https://wakatime.com/badge/user/009964de-2c20-442b-a973-095ac50ab692.svg)](https://wakatime.com/@009964de-2c20-442b-a973-095ac50ab692)
+<h1>Heya Stalker :3</h1>
+My name LyQuid (pseudonym). A boy who loves programming.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -34,6 +34,9 @@
 
 
 <h3 align="left">Stats:</h3>
+
+[![Profile views](https://komarev.com/ghpvc/?username=lyquid12&label=Profile%20Views&color=00ff6e&style=flat)](https://github.com/LyQuid12)
+[![wakatime](https://wakatime.com/badge/user/009964de-2c20-442b-a973-095ac50ab692.svg)](https://wakatime.com/@009964de-2c20-442b-a973-095ac50ab692)
 
 [![LyQuid's stats](https://github-readme-stats.vercel.app/api?username=lyquid12&include_all_commits=Tru&show_icons=True&theme=radical&locale=en)](https://github.com/LyQuid12)
 
