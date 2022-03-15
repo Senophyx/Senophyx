@@ -1,8 +1,6 @@
 <h1>Heya Stalker :3</h1>
 My name LyQuid (pseudonym). A boy who loves programming.
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 <h3 align="left">About me:</h3>
 
 - I’m currently working on [EterNomm](https://github.com/EterNomm), [NekoIceTeam](https://github.com/NekoIceTeam)
