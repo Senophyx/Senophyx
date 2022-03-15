@@ -3,15 +3,15 @@ My name LyQuid (pseudonym). A boy who loves programming.
 
 <h3 align="left">About me:</h3>
 
-- I’m currently working on [EterNomm](https://github.com/EterNomm), [NekoIceTeam](https://github.com/NekoIceTeam)
+- I’m currently working on [EterNomm](https://github.com/EterNomm), [NekoIceTeam](https://github.com/NekoIceTeam).
 
-- I’m currently learning **Python, HTML, CSS, Js**
+- I’m currently learning **Python, HTML, CSS, Js.**
 
-- First time learning Python **August 1, 2021**
+- First time learning Python **August 1, 2021.**
 
-- Ask me about **Python**
+- Ask me about **Python.**
 
-- Fun fact **I am a Python packages creator**,  such as [Whitehat](https://github.com/EterNomm/Whitehat)
+- Fun fact **I am a Python packages creator**,  such as [Whitehat](https://github.com/EterNomm/Whitehat).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
