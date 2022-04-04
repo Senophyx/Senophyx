@@ -13,8 +13,6 @@ My name LyQuid (pseudonym). A boy who loves programming.
 
 - Fun fact **I am a Python packages creator**,  such as [Whitehat](https://github.com/EterNomm/Whitehat), [Arithmos Cipher](https://github.com/LyQuid12/arithmos-cipher).
 
-- My favorites projects : **Whitehat**, **Arithmos Cipher**, **Chathon**, **Discord-RPC**, and **Colorgb**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
