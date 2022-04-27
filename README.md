@@ -16,9 +16,9 @@ My name LyQuid (pseudonym). A boy who loves programming.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![@lyquidhere Twitter](https://img.shields.io/twitter/follow/lyquidhere?style=social)](https://twitter.com/lyquidhere)
+[![@lyquidhere Twitter](https://img.shields.io/twitter/follow/lyquid12?style=social)](https://twitter.com/lyquid12)
 
-<a href="https://instagram.com/lyquid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyquid_" height="30" width="40" /></a>
+<a href="https://instagram.com/ly.quid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ly.quid" height="30" width="40" /></a>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TbgVSbycuh" height="30" width="40" /></a>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://img.shields.io/discord/887650006977347594?label=Discord&logo=Discord" alt="EterNomm Discord Server" height="30" width="200" /></a>
 </p>
