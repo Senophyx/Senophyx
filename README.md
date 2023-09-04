@@ -3,7 +3,7 @@ My name LyQuid (pseudonym). A boy who loves programming.
 
 <h3 align="left">About me:</h3>
 
-- I’m currently working on [EterNomm](https://github.com/EterNomm), [NekoIceTeam](https://github.com/NekoIceTeam).
+- I’m currently working on [EterNomm](https://github.com/EterNomm) as a founder.
 
 - I’m currently learning **Python, HTML, CSS, Js.**
 
@@ -16,13 +16,11 @@ My name LyQuid (pseudonym). A boy who loves programming.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![@elvthr's Twitter](https://img.shields.io/twitter/follow/elvthr?style=social)](https://twitter.com/elvthr)<br>
-[![@lyqd_'s Twitter](https://img.shields.io/twitter/follow/lyqd_?style=social)](https://twitter.com/lyqd_)
-
-<a href="https://instagram.com/ly.quid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ly.quid" height="30" width="40" /></a>
+[Session](https://getsession.org/) ID : **05709fa8d3845388740d3f46bc66d603c8c667941206e172e1a2b2dcd8a7d7ba03**<br><br>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TbgVSbycuh" height="30" width="40" /></a>
 <a href="https://dev.to/lyquid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lyquid" height="30" width="40" /></a>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://img.shields.io/discord/887650006977347594?label=Discord&logo=Discord" alt="EterNomm Discord Server" height="30" width="200" /></a>
+<a href="https://twitter.com/elvthr" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/elvthr?style=social" alt="LyQuid's Twitter" height="30" width="150" /></a>
 </p>
 
 [![Discord](https://discord.c99.nl/widget/theme-3/766162972060942336.png)](https://discord.gg/qpT2AeYZRN)
