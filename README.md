@@ -1,5 +1,5 @@
 <h1>Heya Stalker :3</h1>
-My name LyQuid (pseudonym). A boy who loves programming.
+Hey there! I'm Senophyx (Formerly known as LyQuid), a self-taught programmer who has been familiar with the world of programming for more than 3 years, especially Python.
 
 <h3 align="left">About me:</h3>
 
@@ -11,16 +11,15 @@ My name LyQuid (pseudonym). A boy who loves programming.
 
 - Ask me about **Python.**
 
-- Fun fact **I am a Python packages creator**,  such as [Whitehat](https://github.com/EterNomm/Whitehat), [Arithmos Cipher](https://github.com/LyQuid12/arithmos-cipher).
+- Fun fact **I am a Python packages creator**,  such as [Whitehat](https://github.com/EterNomm/Whitehat), [Arithmos Cipher](https://github.com/Senophyx/arithmos-cipher).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[Session](https://getsession.org/) ID : **05709fa8d3845388740d3f46bc66d603c8c667941206e172e1a2b2dcd8a7d7ba03**<br><br>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TbgVSbycuh" height="30" width="40" /></a>
-<a href="https://dev.to/lyquid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lyquid" height="30" width="40" /></a>
+<a href="https://dev.to/Senophyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Senophyx" height="30" width="40" /></a>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://img.shields.io/discord/887650006977347594?label=Discord&logo=Discord" alt="EterNomm Discord Server" height="30" width="200" /></a>
-<a href="https://twitter.com/elvthr" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/elvthr?style=social" alt="LyQuid's Twitter" height="30" width="150" /></a>
+<a href="https://twitter.com/Senophyx" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Senophyx?style=social" alt="Senophyx's Twitter" height="30" width="150" /></a>
 </p>
 
 [![Discord](https://discord.c99.nl/widget/theme-3/766162972060942336.png)](https://discord.gg/qpT2AeYZRN)
@@ -35,11 +34,11 @@ My name LyQuid (pseudonym). A boy who loves programming.
 
 <h3 align="left">Stats:</h3>
 
-[![Profile views](https://komarev.com/ghpvc/?username=lyquid12&label=Profile%20Views&color=00ff6e&style=flat)](https://github.com/LyQuid12)
+[![Profile views](https://komarev.com/ghpvc/?username=Senophyx&label=Profile%20Views&color=00ff6e&style=flat)](https://github.com/Senophyx)
 [![wakatime](https://wakatime.com/badge/user/009964de-2c20-442b-a973-095ac50ab692.svg)](https://wakatime.com/@009964de-2c20-442b-a973-095ac50ab692)
 
-[![LyQuid's stats](https://github-readme-stats.vercel.app/api?username=lyquid12&include_all_commits=Tru&show_icons=True&theme=radical&locale=en)](https://github.com/LyQuid12)
+[![Senophyx's stats](https://github-readme-stats.vercel.app/api?username=Senophyx&include_all_commits=Tru&show_icons=True&theme=radical&locale=en)](https://github.com/Senophyx)
 
-[![LyQuid's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=lyquid12&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/LyQuid12)
+[![Senophyx's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Senophyx&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/Senophyx)
 
-[![LyQuid's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lyquid12&theme=dark)](https://github.com/LyQuid12)
+[![Senophyx's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Senophyx&theme=dark)](https://github.com/Senophyx)
