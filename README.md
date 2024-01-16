@@ -19,7 +19,7 @@ Hey there! I'm Senophyx (Formerly known as LyQuid), a self-taught programmer who
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TbgVSbycuh" height="30" width="40" /></a>
 <a href="https://dev.to/Senophyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Senophyx" height="30" width="40" /></a>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://img.shields.io/discord/887650006977347594?label=Discord&logo=Discord" alt="EterNomm Discord Server" height="30" width="200" /></a>
-<a href="https://twitter.com/Senophyx" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Senophyx?style=social" alt="Senophyx's Twitter" height="30" width="150" /></a>
+<a href="https://twitter.com/Senophyx" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Senophyx?style=social" alt="Senophyx's Twitter" height="30" width="180" /></a>
 </p>
 
 [![Discord](https://discord.c99.nl/widget/theme-3/766162972060942336.png)](https://discord.gg/qpT2AeYZRN)
