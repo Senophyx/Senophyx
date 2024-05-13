@@ -42,3 +42,5 @@ Hey there! I'm Senophyx (Formerly known as LyQuid), a self-taught programmer who
 [![Senophyx's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Senophyx&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/Senophyx)
 
 [![Senophyx's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Senophyx&theme=dark)](https://github.com/Senophyx)
+
+![](https://hit.yhype.me/github/profile?user_id=83483788)
