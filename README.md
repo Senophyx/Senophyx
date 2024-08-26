@@ -16,6 +16,7 @@ Hey there! I'm Senophyx (Formerly known as LyQuid), a self-taught programmer who
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<a href="mailto:contact@senophyx.id"><p>contact@senophyx.id</p></a>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TbgVSbycuh" height="30" width="40" /></a>
 <a href="https://dev.to/Senophyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Senophyx" height="30" width="40" /></a>
 <a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://img.shields.io/discord/887650006977347594?label=Discord&logo=Discord" alt="EterNomm Discord Server" height="30" width="200" /></a>
