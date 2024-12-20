@@ -1,47 +1,25 @@
-<h1>Heya Stalker :3</h1>
-Hey there! I'm Senophyx (Formerly known as LyQuid), a self-taught programmer who has been familiar with the world of programming for more than 3 years, especially Python.
-
-<h3 align="left">About me:</h3>
-
-- I’m currently working on [EterNomm](https://github.com/EterNomm) as a founder.
-
-- I’m currently learning **Python, HTML, CSS, Js.**
-
-- First time learning Python **August 1, 2021.**
-
-- Ask me about **Python.**
-
-- Fun fact **I am a Python packages creator**,  such as [Whitehat](https://github.com/EterNomm/Whitehat), [Arithmos Cipher](https://github.com/Senophyx/arithmos-cipher).
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="mailto:contact@senophyx.id"><p>contact@senophyx.id</p></a>
-<a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TbgVSbycuh" height="30" width="40" /></a>
-<a href="https://dev.to/Senophyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Senophyx" height="30" width="40" /></a>
-<a href="https://discord.gg/qpT2AeYZRN" target="blank"><img align="center" src="https://img.shields.io/discord/887650006977347594?label=Discord&logo=Discord" alt="EterNomm Discord Server" height="30" width="200" /></a>
-<a href="https://twitter.com/Senophyx" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/Senophyx?style=social" alt="Senophyx's Twitter" height="30" width="180" /></a>
-</p>
-
-[![Discord](https://discord.c99.nl/widget/theme-3/766162972060942336.png)](https://discord.gg/qpT2AeYZRN)
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+# 💫 About Me:
+Hey there! I'm Senophyx (Formerly known as LyQuid), a self-taught programmer who has been familiar with the world of programming for more than 3 years, especially Python. Currently working on [EterNomm](https://github.com/EterNomm) as a founder.
 
 
-<h3 align="left">Stats:</h3>
+## 🌐 Socials:
+[![](https://img.shields.io/badge/Email-ff0000?style=flat&logo=gmail&logoColor=white)](mailto:contact@senophyx.id)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Senophyx)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16941997)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Senophyx) 
+[![Bluesky](https://img.shields.io/badge/Bluesky-blue?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/senophyx.id)
 
-[![Profile views](https://komarev.com/ghpvc/?username=Senophyx&label=Profile%20Views&color=00ff6e&style=flat)](https://github.com/Senophyx)
-[![wakatime](https://wakatime.com/badge/user/009964de-2c20-442b-a973-095ac50ab692.svg)](https://wakatime.com/@009964de-2c20-442b-a973-095ac50ab692)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Senophyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Senophyx&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Senophyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Senophyx's stats](https://github-readme-stats.vercel.app/api?username=Senophyx&include_all_commits=Tru&show_icons=True&theme=radical&locale=en)](https://github.com/Senophyx)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Senophyx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Senophyx's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Senophyx&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/Senophyx)
+---
+[![](https://visitcount.itsvg.in/api?id=Senophyx&icon=0&color=12)](https://visitcount.itsvg.in)
 
-[![Senophyx's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Senophyx&theme=dark)](https://github.com/Senophyx)
-
-![](https://hit.yhype.me/github/profile?user_id=83483788)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
