@@ -8,6 +8,6 @@ Hey there! I'm Senophyx (Formerly known as LyQuid), self-taught programmer, love
 [![](https://img.shields.io/badge/GPG-Public%20Key-blue?style=flat&logo=gnuprivacyguard)](https://github.com/Senophyx/Senophyx/blob/main/senophyx.asc)
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Senophyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Senophyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Senophyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Senophyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
